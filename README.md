@@ -1,7 +1,7 @@
 #Curso de Laravel com AngularJS da Code Education
 ## Módulo de Laravel
 
-[(http://sites.code.education/wp-content/uploads/2015/06/prog-laravel1.png)]
+[![Modulos do laravel](http://sites.code.education/wp-content/uploads/2015/06/prog-laravel1.png)](sites.code.education/laravel-com-angularjs/)
 
 # Laravel PHP Framework
 
